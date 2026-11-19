@@ -81,7 +81,6 @@ pytest -q
 
 `monitoring_results` stores one row per check: endpoint name, URL, HTTP method, UTC timestamp, status code, response time, success flag and error message.
 
-## Resume description
 
 **API Analytics & Monitoring Platform | Python, SQL, REST APIs, Pandas, Streamlit**
 - Developed a Python-based REST API monitoring tool to measure endpoint availability, HTTP status codes and response latency.
