@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HTTPBin GET",
+    "url": "https://httpbin.org/get",
+    "method": "GET",
+    "timeout_seconds": 10
+  },
+  {
+    "name": "HTTPBin Status Check",
+    "url": "https://httpbin.org/status/200",
+    "method": "GET",
+    "timeout_seconds": 10
+  },
+  {
+    "name": "JSONPlaceholder Posts",
+    "url": "https://jsonplaceholder.typicode.com/posts/1",
+    "method": "GET",
+    "timeout_seconds": 10
+  }
+]
