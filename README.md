@@ -97,8 +97,3 @@ Do not claim uptime improvements or production deployment unless measured and co
 - Scheduled monitoring with a background worker
 - PostgreSQL support
 - Docker and CI workflow
-
-
-## Additional project: XML-to-JSON Data Transformation & Reconciliation Engine
-
-A second Python integration project is available in [`xml-json-reconciliation-engine/`](./xml-json-reconciliation-engine/). It demonstrates XML parsing, validation, JSON normalization, CSV/MySQL reconciliation, structured discrepancy reports, and unit tests. See its [project README](./xml-json-reconciliation-engine/README.md) for setup and run instructions.
